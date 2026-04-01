@@ -49,6 +49,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abbar2003&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abbar2003&layout=compact&theme=tokyonight)
+
+---
+
 ## 💻 My Tools
 
 ```dart
@@ -69,3 +77,6 @@ class AboutMe {
     "Continuously learning and improving skills"
   ];
 }
+
+---
+
