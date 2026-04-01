@@ -47,10 +47,18 @@
 ```dart
 class AboutMe {
   final tools = {
-    "Languages": ["Dart"],
-    "Frameworks": ["Flutter"],
+    "Languages": ["Dart", "C++", "C", "JavaScript"],
+    "Frameworks": ["Flutter", "React (Learning)"],
+    "Web": ["HTML", "CSS"],
     "Database": ["Firebase", "SQLite"],
     "Tools": ["Git", "Figma", "VS Code"],
+    "AI Tools": ["ChatGPT", "AI-assisted development"],
     "Platforms": ["Android", "iOS"]
   };
+
+  final traits = [
+    "Fast learner and adaptable to new technologies",
+    "Able to effectively use AI tools to improve productivity",
+    "Continuously learning and improving skills"
+  ];
 }
