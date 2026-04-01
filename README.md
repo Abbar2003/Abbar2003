@@ -8,7 +8,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abbar2003&style=flat&color=orange&label=PROFILE+VIEWS)
 
-[![Telegram](https://img.shields.io/badge/Contact-Telegram-blue?style=flat&logo=telegram)](https://t.me/@Mh_abbar)
+## 🌐 Connect with Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Mh_abbar-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Mh_abbar)
+[![GitHub](https://img.shields.io/badge/GitHub-Abbar2003-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abbar2003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Alabbar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-alabbar-652071362)
+[![Instagram](https://img.shields.io/badge/Instagram-Mohammad%20Alabbar-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mohammed_abbar1)
+[![Facebook](https://img.shields.io/badge/Facebook-Mohamad%20Abbar-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/mohamad.abbar.639370)
+[![Email](https://img.shields.io/badge/Email-mhdalabbar2003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mhdalabbar2003@gmail.com)
 
 </div>
 
@@ -16,10 +23,10 @@
 
 ## 🚀 About Me
 
-- 📱 Flutter Developer
-- 💙 Passionate about building beautiful mobile apps
-- 🧠 Always learning new technologies
-- 💬 Ask me about Flutter, Dart, Mobile Development
+- 📱 Flutter Developer  
+- 💙 Passionate about building beautiful mobile apps  
+- 🧠 Always learning new technologies  
+- 💬 Ask me about Flutter, Dart, Mobile Development  
 
 ---
 
