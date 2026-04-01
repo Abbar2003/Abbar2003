@@ -6,7 +6,7 @@
 <h1>Hi 👋 I'm Mohammad Al-Abbar</h1>
 <h3>Flutter Developer 📱</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Abbar2003&style=flat&color=orange&label=PROFILE+VIEWS)
 
 [![Telegram](https://img.shields.io/badge/Contact-Telegram-blue?style=flat&logo=telegram)](https://t.me/@Mh_abbar)
 
